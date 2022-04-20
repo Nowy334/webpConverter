@@ -1,6 +1,6 @@
-#jpg to webp converter
+# jpg to webp converter
 
-##Instruction:
+## Instruction:
 First step:
 
 ```
