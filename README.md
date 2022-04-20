@@ -1,13 +1,13 @@
-#jpg to webp converter
+# jpg to webp converter
 
-##Instruction:
+## Instruction:
 First step:
 
 ```
 $ npm install
 ```
 
-Second step:
+Second step: <br/>
 Adding jpg files to the "in" folder.
 
 Third step:
@@ -16,5 +16,5 @@ Third step:
 $ npm start
 ```
 
-Last step:
+Last step: <br/>
 Converted files are in the "out" folder.
